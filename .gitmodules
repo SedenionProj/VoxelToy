@@ -1,0 +1,18 @@
+[submodule "VoxelToy/vendor/volk"]
+	path = VoxelToy/vendor/volk
+	url = https://github.com/zeux/volk.git
+[submodule "VoxelToy/vendor/glfw"]
+	path = VoxelToy/vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "VoxelToy/vendor/glm"]
+	path = VoxelToy/vendor/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "VoxelToy/vendor/spirv-cross"]
+	path = VoxelToy/vendor/spirv-cross
+	url = https://github.com/KhronosGroup/SPIRV-Cross.git
+[submodule "VoxelToy/vendor/stb"]
+	path = VoxelToy/vendor/stb
+	url = https://github.com/nothings/stb.git
+[submodule "VoxelToy/vendor/imgui"]
+	path = VoxelToy/vendor/imgui
+	url = https://github.com/ocornut/imgui.git
